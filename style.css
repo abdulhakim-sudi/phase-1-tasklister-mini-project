@@ -35,3 +35,18 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 10px 0;
+  padding: 10;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+}
